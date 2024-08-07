@@ -1,3 +1,4 @@
 .cabecalho-imagem{
     width: 20%; 
-    image-rendering: center;}
+    place-items: center;
+}
